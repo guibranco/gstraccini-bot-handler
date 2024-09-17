@@ -1,4 +1,4 @@
-# GStraccini GitHub Bot Webhooks Hanlder
+# GStraccini GitHub Bot Website
 
 🤖 :octocat: The [GStraccini bot](https://github.com/guibranco/gstraccini-bot) webhooks handler repository.
 
