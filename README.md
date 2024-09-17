@@ -1,34 +1,39 @@
-# GStraccini GitHub Bot Website
+# GStraccini GitHub Bot Handler
 
-🤖 :octocat: The [GStraccini bot](https://github.com/guibranco/gstraccini-bot) webhooks handler repository.
+🤖 :octocat: **GStraccini-bot** is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits, allowing you to focus on solving real problems.
 
-[![HealthCheck.io Badge](https://healthchecks.io/badge/7751e4f8-141e-4e04-86a0-c19cd9/XxN5wyTi/gstraccini-bot.svg)](https://github.com/apps/gstraccini)
-
----
-
-## About the bot
-
-[GStraccini-bot](https://bot.straccini.com) keeps your repository organized and healthy by managing pull requests, issues, comments, and commits so you can focus on solving the real problems.
+[![Deploy via ftp](https://github.com/guibranco/gstraccini-bot/actions/workflows/deploy.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/deploy.yml)
+[![PHP Linting](https://github.com/guibranco/gstraccini-bot/actions/workflows/php-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/php-lint.yml)
+[![JSON/YAML validation](https://github.com/guibranco/gstraccini-bot/actions/workflows/json-yaml-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/json-yaml-lint.yml)
+[![Shell checker](https://github.com/guibranco/gstraccini-bot/actions/workflows/shell-cheker.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/shell-cheker.yml)
 
 ---
 
-## About this repository
+## About the Bot
 
-This repository holds the bot's webhook handler, which receives and handles income traffic from GitHub servers.
-
----
-
-## How it works
-
-- [Core](https://github.com/guibranco/gstraccini-bot): The worker for the bot.
-- [Webhooks handler](https://github.com/guibranco/gstraccini-bot-handler): The webhooks received/handler.
-- [Website/Dashboard](https://github.com/guibranco/gstraccini-bot-website): The landing page and dashboard for the bot.
+[GStraccini-bot](https://bot.straccini.com) automates key repository tasks, managing pull requests, issues, comments, and commits to help maintain a clean, organized, and healthy project environment. This lets you focus on development and problem-solving.
 
 ---
 
-## Links
+## About This Repository
+
+This repository contains the webhook handler for GStraccini-bot. It is responsible for receiving and processing webhook traffic from GitHub servers.
+
+---
+
+## How It Works
+
+GStraccini-bot uses several components to manage repositories:
+
+- [Core](https://github.com/guibranco/gstraccini-bot): The bot’s main worker that processes tasks.
+- [Webhooks handler](https://github.com/guibranco/gstraccini-bot-handler): Handles incoming webhooks.
+- [Website/Dashboard](https://github.com/guibranco/gstraccini-bot-website): Provides the bot's landing page and dashboard.
+
+---
+
+## Useful Links
 
 - [GitHub Marketplace](https://github.com/marketplace/gstraccini-bot)
 - [GitHub App](https://github.com/apps/gstraccini)
 - [Repository on GitHub](https://github.com/guibranco/gstraccini-bot)
-- [handler](https://bot.straccini.com/)
+- [Bot Dashboard](https://bot.straccini.com)
