@@ -8,7 +8,6 @@
 
 ## Links
 
-
 - [GitHub Marketplace](https://github.com/marketplace/gstraccini-bot)
 - [GitHub App](https://github.com/apps/gstraccini)
 - [Repository on GitHub](https://github.com/guibranco/gstraccini-bot)
