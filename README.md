@@ -2,10 +2,10 @@
 
 🤖 :octocat: **GStraccini-bot** is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits, allowing you to focus on solving real problems.
 
-[![Deploy via ftp](https://github.com/guibranco/gstraccini-bot/actions/workflows/deploy.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/deploy.yml)
-[![PHP Linting](https://github.com/guibranco/gstraccini-bot/actions/workflows/php-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/php-lint.yml)
-[![JSON/YAML validation](https://github.com/guibranco/gstraccini-bot/actions/workflows/json-yaml-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/json-yaml-lint.yml)
-[![Shell checker](https://github.com/guibranco/gstraccini-bot/actions/workflows/shell-cheker.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot/actions/workflows/shell-cheker.yml)
+[![Deploy via ftp](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/deploy.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/deploy.yml)
+[![PHP Linting](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/php-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/php-lint.yml)
+[![JSON/YAML validation](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/json-yaml-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/json-yaml-lint.yml)
+[![Shell checker](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/shell-cheker.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/shell-cheker.yml)
 
 ---
 
