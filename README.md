@@ -1,6 +1,6 @@
 # ![GStraccini-bot](https://raw.githubusercontent.com/guibranco/gstraccini-bot-website/main/Src/logo.png)
 
-🤖 :octocat: **GStraccini-bot** is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits, allowing you to focus on solving real problems.
+🤖 :octocat: **GStraccini-bot** is a GitHub bot designed to keep your repository organized and healthy by automating tasks like managing pull requests, issues, comments, and commits. This allows you to focus on solving real problems.
 
 [![Deploy via ftp](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/deploy.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/deploy.yml)
 [![PHP Linting](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/php-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-handler/actions/workflows/php-lint.yml)
@@ -11,7 +11,7 @@
 
 ## About the Bot
 
-[GStraccini-bot](https://bot.straccini.com) automates key repository tasks, managing pull requests, issues, comments, and commits to help maintain a clean, organized, and healthy project environment. This lets you focus on development and problem-solving.
+[GStraccini-bot](https://bot.straccini.com) automates essential repository tasks, managing pull requests, issues, comments, and commits to help maintain a clean, organized, healthy project environment. This lets you focus on development and problem-solving.
 
 ---
 
@@ -25,9 +25,11 @@ This repository contains the webhook handler for GStraccini-bot. It is responsib
 
 GStraccini-bot uses several components to manage repositories:
 
-- [Core](https://github.com/guibranco/gstraccini-bot): The bot’s main worker that processes tasks.
-- [Webhooks handler](https://github.com/guibranco/gstraccini-bot-handler): Handles incoming webhooks.
-- [Website/Dashboard](https://github.com/guibranco/gstraccini-bot-website): Provides the bot's landing page and dashboard.
+- [API](https://github.com/guibranco/gstraccini-bot-api): The bot’s API project. Stats and configuration endpoints.
+- [Handler](https://github.com/guibranco/gstraccini-bot-handler): Handles incoming webhooks.
+- [Service](https://github.com/guibranco/gstraccini-bot-service): The bot's service project. Main worker that processes tasks
+- [Website](https://github.com/guibranco/gstraccini-bot-website): Provides the bot's landing page and dashboard.
+- [Workflows](https://github.com/guibranco/gstraccini-bot-workflows): Execute GitHub Actions.
 
 ---
 
