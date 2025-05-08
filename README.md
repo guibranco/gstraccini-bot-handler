@@ -5,7 +5,7 @@
 [![Deploy via ftp](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/deploy.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/deploy.yml)
 [![PHP Linting](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/php-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/php-lint.yml)
 [![JSON/YAML validation](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/json-yaml-lint.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/json-yaml-lint.yml)
-[![Shell checker](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/shell-cheker.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/shell-cheker.yml)
+[![Shell checker](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/shell-checker.yml/badge.svg)](https://github.com/guibranco/gstraccini-bot-service/actions/workflows/shell-checker.yml)
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## About This Repository
 
-This repository contains the webhook handler for GStraccini-bot. It is responsible for receiving and processing webhook traffic from GitHub servers.
+This repository contains the webhook handler for [GStraccini-bot](https://github.com/apps/gstraccini). It is responsible for receiving and processing webhook traffic from GitHub servers.
 
 ---
 
@@ -102,5 +102,3 @@ GStraccini-bot runs automated tasks at regular intervals on its infrastructure:
 - [Repository on GitHub](https://github.com/guibranco/gstraccini-bot-service)
 - [Bot's Dashboard](https://bot.straccini.com)
 - [Bot's Documentation](https://docs.bot.straccini.com)
-
-
